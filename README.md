@@ -1,10 +1,12 @@
 ## Hi there I'm Ajay 👋
 
-- 💾 I'm a UI Engineer and a technology enthusiast.
+- 💾 I'm a UI Engineer and a technology enthusiast in general.
+- 👨‍💻 I’m currently working at Accenture
+- 💻 I have worked with variety of client ranging from FinTech to AgriTech.
 - 📚 I’m currently exploring backend (Spring Boot). 
  
 - 💽 Languages and frameworks that I know are C, C++, HTML5, CSS3, JavaScript, TypeScript Tailwind CSS, Bootstrap, 
-   React.js, Node.js, ExpressJS, Redux
+   React.js, Vue.js Node.js, ExpressJS, Redux
 - 📫 You can reach me out on my [LinkedIn](https://www.linkedin.com/in/ajay02/)
 
 
