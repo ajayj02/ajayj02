@@ -3,7 +3,7 @@
 - 💾 I'm a UI Engineer and a technology enthusiast in general.
 - 👨‍💻 I’m currently working at Accenture
 - 💻 I have worked with variety of client ranging from FinTech to AgriTech.
-- 📚 I’m currently exploring backend (Spring Boot). 
+- 📚 I’m currently exploring backend (NodeJS/ExpressJS). 
  
 - 💽 Languages and frameworks that I know are C, C++, HTML5, CSS3, JavaScript, TypeScript Tailwind CSS, Bootstrap, 
    React.js, Vue.js Node.js, ExpressJS, Redux
