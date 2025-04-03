@@ -1,7 +1,7 @@
 ## Hi there I'm Ajay 👋
 
 - 💾 I'm a UI Engineer and a technology enthusiast in general.
-- 👨‍💻 I’m currently working as a SDE-2 (UI) at Licious
+- 👨‍💻 I’m currently working as a Frontend Engineer
 - 💻 Previously I have worked at Accenture where I contributed in projects ranging from FinTech to AgriTech.
 - 📚 I’m currently exploring backend (NodeJS/ExpressJS). 
  
