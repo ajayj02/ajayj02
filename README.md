@@ -1,24 +1,6 @@
-## Hi there I'm Ajay 👋
+### Hi there...👋
 
-- 💾 I'm a UI Engineer and a technology enthusiast in general.
-- 👨‍💻 I’m currently working as a Frontend Engineer
-- 💻 Previously I have worked at Accenture where I contributed in projects ranging from FinTech to AgriTech.
-- 📚 I’m currently exploring backend (NodeJS/ExpressJS). 
- 
-- 💽 Languages and frameworks that I know are C, C++, HTML5, CSS3, JavaScript, TypeScript Tailwind CSS, Bootstrap, 
-   React.js, Vue.js Node.js, ExpressJS, Redux
-- 📫 You can reach me out on my [LinkedIn](https://www.linkedin.com/in/ajay02/)
-
-
-## My Stats:
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=ajayj02)
-
-[![Ajay's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayj02&theme=blue-green)](https://github.com/ajayj02)
-
-
-[![Ajay's github stats](https://github-readme-stats.vercel.app/api?username=ajayj02&theme=blue-green)](https://github.com/ajayj02)
-
-[![Ajay's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ajayj02&theme=blue-green)](https://github.com/ajayj02)
-
-[![Ajay's github trophy](https://github-profile-trophy.vercel.app/?username=ajayj02&row=1)](https://github.com/ajayj02)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ajayj02&theme=dark&hide_border=true&ring=DAAB4D&fire=DAAB4D&currStreakLabel=DAAB4D)](https://git.io/streak-stats)
+<img align="right" width=320px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+![Ajay's github stats](https://github-readme-stats.vercel.app/api?username=ajayj02&custom_title=Ajay's+Github+Stats&count_private=true&show_icons=true&theme=darcula&title_color=ffc857&include_all_commits=true&icon_color=ffc857&hide_border=true&text_color=daf7dc&bg_color=151515&hide=["stars"])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayj02&layout=compact&theme=darcula&hide_border=true&text_color=daf7dc&bg_color=151515&title_color=ffc857)
