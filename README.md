@@ -61,7 +61,7 @@ const ajay = {
 <table align="center">
   <tr>
     <td align="center" width="300">
-      <img src="./images/deloitte.png" height="50" alt="Deloitte" />
+      <img src="./images/deloitte.jpg" height="50" alt="Deloitte" />
       <br /><br />
       <b>Deloitte USI</b>
       <br />
