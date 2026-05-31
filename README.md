@@ -61,7 +61,7 @@ const ajay = {
 <table align="center">
   <tr>
     <td align="center" width="300">
-      <img src="./images/deloitte.jpg" height="50" alt="Deloitte" />
+      <img src="./images/deloitte.gif" height="50" alt="Deloitte" />
       <br /><br />
       <b>Deloitte USI</b>
       <br />
@@ -83,7 +83,7 @@ const ajay = {
       <img src="https://img.shields.io/badge/D2C%20%7C%20E--Commerce-f78166?style=flat-square" />
     </td>
     <td align="center" width="300">
-      <img src="./images/accenture.png" height="50" alt="Accenture" />
+      <img src="./images/accenture.svg" height="50" alt="Accenture" />
       <br /><br />
       <b>Accenture</b>
       <br />
@@ -158,20 +158,14 @@ Nov 2021                          Jan 2025   Mar 2025          Present
 <h2>📊 GitHub Stats &amp; Activity</h2>
 
 <div align="center">
-  <a href="https://github.com/ajayj02">
-    <img src="https://github-readme-stats.vercel.app/api?username=ajayj02&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/ajayj02">
-    <img src="https://streak-stats.demolab.com/?user=ajayj02&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ajayj02&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=86400" width="49%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=ajayj02&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ajayj02">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajayj02&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="98%" alt="Activity Graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajayj02&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="98%" alt="Activity Graph" />
 </div>
 
 <br/>
@@ -181,9 +175,7 @@ Nov 2021                          Jan 2025   Mar 2025          Present
 <h2>🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <a href="https://github.com/ajayj02">
-    <img src="https://github-profile-trophy.vercel.app/?username=ajayj02&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ajayj02&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" alt="Trophies" />
 </div>
 
 <br/>
