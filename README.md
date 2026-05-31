@@ -108,12 +108,6 @@ const ajay = {
 </table>
 
 <div align="center">
-<pre>
-Nov 2021                          Jan 2025   Mar 2025          Present
-   ├──────── Accenture ──────────────┤├ Licious ┤├── Deloitte USI ──▶
-   │       Software Engineer         ││  SDE-2  ││    SE-2
-   │         ~3 years                ││  ~2 mo  ││   Current
-</pre>
 </div>
 
 <br/>
