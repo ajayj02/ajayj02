@@ -219,45 +219,6 @@ System Design   █████████████████████�
   </picture>
 </div>
 
-<br/>
-
-> ⬆️ <b>Snake not showing?</b> You need to set up a GitHub Action in your <code>ajayj02/ajayj02</code> profile repo.<br/>
-> Create the file <code>.github/workflows/snake.yml</code> with the workflow below, then push it. The snake will auto-generate.
-
-<details>
-<summary>📋 Click to see the GitHub Action workflow</summary>
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"  # runs daily
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ajayj02
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
-<br/>
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
