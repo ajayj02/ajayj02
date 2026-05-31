@@ -61,7 +61,7 @@ const ajay = {
 <table align="center">
   <tr>
     <td align="center" width="300">
-      <img src="https://img.shields.io/badge/Deloitte-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" alt="Deloitte" />
+      <img src="./images/deloitte.png" height="50" alt="Deloitte" />
       <br /><br />
       <b>Deloitte USI</b>
       <br />
@@ -72,7 +72,7 @@ const ajay = {
       <img src="https://img.shields.io/badge/🟢_Current-58a6ff?style=flat-square" />
     </td>
     <td align="center" width="300">
-      <img src="https://img.shields.io/badge/Licious-E23744?style=for-the-badge&logoColor=white" alt="Licious" />
+      <img src="./images/licious.png" height="50" alt="Licious" />
       <br /><br />
       <b>Licious</b>
       <br />
@@ -83,7 +83,7 @@ const ajay = {
       <img src="https://img.shields.io/badge/D2C%20%7C%20E--Commerce-f78166?style=flat-square" />
     </td>
     <td align="center" width="300">
-      <img src="https://img.shields.io/badge/Accenture-A100FF?style=for-the-badge&logo=accenture&logoColor=white" alt="Accenture" />
+      <img src="./images/accenture.png" height="50" alt="Accenture" />
       <br /><br />
       <b>Accenture</b>
       <br />
