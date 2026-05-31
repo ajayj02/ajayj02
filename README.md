@@ -90,13 +90,13 @@ const ajay = {
   </tr>
   <tr>
     <td align="center">
-      <sub>Enterprise Applications<br/>Consulting &amp; Technology</sub>
+      <sub>FinTech and InsurTech</sub>
     </td>
     <td align="center">
-      <sub>Frontend Performance<br/>Consumer Tech</sub>
+      <sub>Consumer Tech</sub>
     </td>
     <td align="center">
-      <sub>Fullstack Development<br/>Client Delivery</sub>
+      <sub>Fintech and AgriTech</sub>
     </td>
   </tr>
 </table>
