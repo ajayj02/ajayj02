@@ -1,4 +1,3 @@
-<![CDATA[<!-- Header Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Ajay%20Joshi&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Fullstack%20Engineer%20%7C%20Frontend%20Heavy%20%7C%20Performance%20Obsessed&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
 </div>
@@ -264,4 +263,3 @@ jobs:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%" />
 </div>
-]]>
