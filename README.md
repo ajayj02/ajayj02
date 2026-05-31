@@ -38,12 +38,6 @@ const ajay = {
     funFact: "I measure success in Lighthouse scores 💯"
 };
 ```
-
-  </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayj02&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="280" />
-    </td>
-  </tr>
 </table>
 
 - 🔭 Currently building enterprise-grade applications at **Deloitte USI**
@@ -160,16 +154,6 @@ const ajay = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajayj02&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="98%" alt="Activity Graph" />
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2>🏆 GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajayj02&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" alt="Trophies" />
 </div>
 
 <br/>
